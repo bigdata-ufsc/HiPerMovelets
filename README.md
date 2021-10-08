@@ -1,6 +1,6 @@
 # HIPERMovelets
 
-Source code of the paper **HIPERMovelets: a greedy approach for efficient movelet extraction and dimensionality reduction**, accepted for publication in ...
+Source code of the paper **HIPERMovelets: high performance movelet extraction for trajectory classification**, accepted for publication in International Journal of Geographical Information Science (2021).
 
 \[ [publication](https://#) ] \[ [preprint](./reference/preprint.pdf) ] \[ [bibtex](./reference/bibliography.bib) ]
 
