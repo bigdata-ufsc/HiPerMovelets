@@ -8,7 +8,7 @@ Source code of the paper **HIPERMovelets: a greedy approach for efficient movele
 ## Versions
 
 
-This is a project with the HIPERMovelets (Portela, 2020) implementation, with three options of optimizations.
+This is a project with the HIPERMovelets (Portela et al., 2021) implementation, with three options of optimizations.
 
 
 - *HIPERMovelets*: new optimization for MASTERMovelets, with greedy search (`-version hiper`).
@@ -28,11 +28,7 @@ This is a project with the HIPERMovelets (Portela, 2020) implementation, with th
 
 - *MASTERMovelets-Pivots*: it limit the movelets search space to the points that are neighbour of well qualified movelets of size one (`-version pivots`).
 - *MASTERMovelets-Pivots-Log*: it limit the movelets search space to the points that are neighbour of well qualified movelets of size one (`-version pivots -Ms -3`).
-
-
-- *SUPERMovelets*: a optimized approach that identifies the better regions for finding movelets (`-version super`).
-- *SUPERMovelets-Log*: a optimized approach that identifies the better regions for finding movelets (`-version super -Ms -3`).
-
+- 
 
 ## Setup
 
