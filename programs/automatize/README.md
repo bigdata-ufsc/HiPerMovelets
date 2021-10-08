@@ -20,4 +20,4 @@ Automatize is a modular project to in Python for experiments automatization. Thi
 
 ### Usage
 
-Refer to [programs/Automatize_Sample_Code.ipynb](./programs/Automatize_Sample_Code.ipynb) for usage examples.
+Refer to [programs/Automatize_Sample_Code.ipynb](./programs/Automatize_Sample_Code.ipynb) for usage examples. 
