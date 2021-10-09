@@ -5,6 +5,13 @@ Source code of the paper **HIPERMovelets: high performance movelet extraction fo
 \[ [publication](https://#) ] \[ [preprint](./reference/preprint.pdf) ] \[ [bibtex](./reference/bibliography.bib) ]
 
 
+## Datasets
+
+Datasets used in publication are available in 5-fold split in:
+
+\[ [datasets](https://github.com/bigdata-ufsc/datasets_v1_0) ]
+
+
 ## Versions
 
 
