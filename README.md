@@ -1,6 +1,6 @@
 # HIPERMovelets
 
-Source code of the paper **HIPERMovelets: high performance movelet extraction for trajectory classification**, accepted for publication in International Journal of Geographical Information Science (2021).
+Source code of the paper **HIPERMovelets: high-performance movelet extraction for trajectory classification**, accepted for publication in International Journal of Geographical Information Science (2021).
 
 \[ [publication](https://#) ] \[ [preprint](./reference/preprint.pdf) ] \[ [bibtex](./reference/bibliography.bib) ]
 
